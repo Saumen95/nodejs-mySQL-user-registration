@@ -12,7 +12,7 @@
     "Express",
     "authentication"
   ],
-  "author": "Saumen Roy",
+  "author": "Saumen95",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.19.0",
